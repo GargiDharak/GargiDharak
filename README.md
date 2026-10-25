@@ -29,6 +29,7 @@ I'm doing a Data Engineering course at **Eduplus Now, Pune**, and I'll be adding
 - **[Credit Card Fraud Detection](https://github.com/GargiDharak/SQL_Fraud-Detection-Of-Credit-Card-By-Gargi-Dharak)**: identifying suspicious transactions using SQL
 - **[Customer Churn Prediction](https://github.com/GargiDharak/Churn_Prediction_Machine_Learning)**: EDA, feature engineering and model comparison
 - **[Customer Segmentation](https://github.com/GargiDharak/Customer-Segmentation-rfm-kmeans)**: RFM analysis with K-Means clustering
+- And multiple!!
 
 ---
 
