@@ -10,7 +10,7 @@ Electrical Engineering graduate from Pune, currently training in **Data Engineer
 I'm doing a Data Engineering course at **Eduplus Now, Pune**, and I'll be adding my practice work and projects here as I go.
 
 - ✅ Python (completed)
-- 🔄 SQL / MySQL (in progress)
+- 🔄 SQL / MySQL (completed)
 - 📡 Kafka and data streaming
 - ⏳ Coming up: ETL pipelines, data warehousing, and other Data Engineering tools
 
